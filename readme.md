@@ -1,4 +1,4 @@
-#Artisan Web App
+#Rich medz
 
 <p>This is <b>Rich Medicals</b>, we are dedicated to helping you during your journey towards achieving good health in the most natural and affordable way possible.
 
